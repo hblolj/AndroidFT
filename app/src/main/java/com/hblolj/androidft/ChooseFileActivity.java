@@ -23,6 +23,7 @@ import java.util.List;
 
 public class ChooseFileActivity extends AppCompatActivity implements View.OnClickListener {
 
+    //new Life
     private List<FileInfoFragment> mFileInfoFragments = new ArrayList<>();
     private FileInfoFragment mApkInfoFragment;
     private FileInfoFragment mJpgInfoFragment;
